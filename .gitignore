@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# ChromaDB generated data (not source code, regenerated on use)
+chroma_db/
+
+# OS/editor clutter
+.DS_Store
+.vscode/
